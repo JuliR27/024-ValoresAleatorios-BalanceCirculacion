@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int balance = RND.nextInt();                    // [Integer.MIN.VALUE .. Integer.MAX_VALUE]
+        int balance = RND.nextInt();
         System.out.printf("Balance de Circulacion....: %d%n", balance);
     }
 
